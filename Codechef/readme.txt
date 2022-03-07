@@ -1,1 +1,1 @@
-This folder contains all the codechef files created to solve problems.
+This folder contains all the codechef files created by me to solve different problems.
